@@ -8,9 +8,9 @@ que facilita la conversión entre distintos tipos de monedas de manera eficiente
 se conecta en tiempo real a una API de tasas de cambio, garantizando que los resultados reflejen los valores 
 más actualizados del mercado financiero global. Además de ser una herramienta útil para quienes trabajan con 
 diferentes divisas, este proyecto representa un desafío técnico que fomenta habilidades clave en programación, 
-integración de APIs y gestión de dependencias. Este desarrollo es parte del programa ONE (Oracle Next Education) 
-de Alura Latam, una iniciativa educativa que promueve el aprendizaje práctico y la solución de problemas reales 
-a través de proyectos de software orientados al mundo laboral.
+integración de APIs y gestión de dependencias. Este desarrollo es parte de una iniciativa educativa que 
+promueve el aprendizaje práctico y la solución de problemas reales a través de proyectos de software orientados 
+al mundo laboral.
 
 <h3>Requisitos</h3>
 
@@ -30,7 +30,7 @@ Comprueba que los valores devueltos coinciden con las tasas de cambio actuales o
 
 <h3>Créditos</h3>
 
-Este proyecto fue desarrollado como parte del programa ONE de Alura Latam, promoviendo el aprendizaje práctico en el desarrollo de software.
+Este proyecto es parte del programa ONE (Oracle Next Education) de Alura Latam.
 
 ## Creadora 
 
